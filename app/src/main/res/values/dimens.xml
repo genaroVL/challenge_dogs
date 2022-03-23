@@ -22,4 +22,5 @@
     <dimen name="text_size_extra_large">20sp</dimen>
     <dimen name="text_size_ultra_large">40sp</dimen>
     <dimen name="cdv_dog_padding_large">27dp</dimen>
+    <dimen name="cdv_dog_padding_end">10dp</dimen>
 </resources>

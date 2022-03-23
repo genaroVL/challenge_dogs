@@ -3,7 +3,6 @@ package com.example.challenge_dogs.ui.view
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
-import com.example.challenge_dogs.R
 import com.example.challenge_dogs.databinding.ActivityMainBinding
 import com.example.challenge_dogs.ui.adapter.DogAdapter
 import com.example.challenge_dogs.ui.viewModel.DogViewModel

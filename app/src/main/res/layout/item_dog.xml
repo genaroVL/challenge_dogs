@@ -16,6 +16,8 @@
             android:orientation="vertical"
             android:background="@drawable/bg_card_dog"
             android:paddingTop="@dimen/cdv_dog_padding"
+            android:paddingEnd="@dimen/cdv_dog_padding_end"
+            android:paddingRight="@dimen/cdv_dog_padding"
             android:paddingStart="@dimen/cdv_dog_padding_large"
             android:paddingLeft="@dimen/cdv_dog_padding_large">
 
