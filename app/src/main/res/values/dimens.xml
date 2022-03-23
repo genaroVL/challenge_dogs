@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="imv_dog_with">120dp</dimen>
+    <dimen name="imv_dog_heigth">175dp</dimen>
+    <dimen name="cdv_dog_height">150dp</dimen>
+    <dimen name="cdv_dog_padding">15dp</dimen>
+    <dimen name="tv_margintop_medium">15dp</dimen>
+    <dimen name="tv_margintop_extra_large">25dp</dimen>
+    <dimen name="tv_main_title">25sp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_small_right">15dp</dimen>
+    <dimen name="margin_medium">20dp</dimen>
+    <dimen name="margin_large">30dp</dimen>
+
+
+    <dimen name="text_size_small">8sp</dimen>
+    <dimen name="text_size_medium">10sp</dimen>
+    <dimen name="text_size_regular">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_extra_large">20sp</dimen>
+    <dimen name="text_size_ultra_large">40sp</dimen>
+    <dimen name="cdv_dog_padding_large">27dp</dimen>
+</resources>
